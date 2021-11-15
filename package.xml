@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>demo_42_ros</name>
+    <version>0.0.1</version>
+    <description>A demo/example to transmit 42 data to a ROS network.</description>
+    <maintainer email="rnvandemark@gmail.com">R. Nick Vandemark</maintainer>
+    <license>BSD</license>
+    <author>R. Nick Vandemark</author>
+
+    <buildtool_depend>catkin</buildtool_depend>
+
+    <depend>icd_42_ros</depend>
+
+    <doc_depend>doxygen</doc_depend>
+</package>
